@@ -1,0 +1,46 @@
+body {
+	background-color:   #ff4d4d;
+	text-align: center;
+	font-family: segoeUI, Tahoma, Consolas;
+	color: #330000;
+}
+
+table {
+	border-color: white;
+	width: 100%;
+	background-color:  #ff9999;
+}
+
+th {
+	height: 20px;
+}
+td {
+	width: 20%;
+	height: 20px;
+}
+
+.td-meio {
+	width: 60%;
+	height: 20px;
+}
+.td-header {
+	width: 90%;
+	text-align: left;
+	padding-left: 50px;
+}
+img{
+	width: 200px;
+	border: 5px;
+	border-color: #ff4d4d;
+	border-style: solid;
+}
+
+h3, h4{
+	text-align: left;
+	padding-left: 50px;
+	
+}
+
+tfoot{
+	margin-top: 150
+}
